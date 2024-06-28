@@ -61,4 +61,4 @@ Special thanks to the internship mentors and my teammates for their support and 
 
 ---
 
-Feel free to modify this template to better suit the specifics of your project.
+
