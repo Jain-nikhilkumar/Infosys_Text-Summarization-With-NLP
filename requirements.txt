@@ -1,0 +1,7 @@
+pandas
+nltk
+matplotlib
+transformers
+torch
+rouge-score
+pydrive
