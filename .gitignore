@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:df9c601699d100ec6cd3b8ecd219c87f5090a8acd8c73859447cedfedc51ae19
+size 291
+=======
+
+echo "xsum_dataset/train/data-00000-of-00001.arrow" >> .gitignore
+echo "xsum_dataset/validation/data-00000-of-00001.arrow" >> .gitignore
+echo "xsum_dataset/test/data-00000-of-00001.arrow" >> .gitignore
+echo "myenv/" >> .gitignore
+echo ".vs" >> .gitignore
+echo ".safetensors" >> .gitignore
+echo "src/xsum_dataset/train/*.arrow" >> .gitignore
+echo "src/cnn_dailymail_dataset/train/*.arrow" >> .gitignore
+echo "src/cnn_dailymail_dataset/validation/*.arrow" >> .gitignore
+echo "src/cnn_dailymail_dataset/test/*.arrow" >> .gitignore
+>>>>>>> origin/main
