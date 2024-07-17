@@ -6,7 +6,7 @@
 <p align="left">Welcome to the Text Summarization project! This project leverages cutting-edge deep learning techniques to create an advanced text summarization model. The goal is to generate concise and meaningful summaries of text documents, making it easier to extract key information quickly.</p>
 
 ###
-<h2 align-="left"> Find The Deployed Application At  : https://github.com/Jain-nikhilkumar/Infosys_Text-Summarization-With-NLP/ </h2>
+<h2 align-="left"> Find The Deployed Application At : https://huggingface.co/spaces/Nikhil2411/textsumerizar1234 </h2>
 
 <h2 align="left">🛠 Getting Started</h2>
 
